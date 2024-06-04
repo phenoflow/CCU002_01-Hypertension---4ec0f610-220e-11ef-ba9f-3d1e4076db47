@@ -1,0 +1,606 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/heartrenal-ccu002_01-hypertension---secondary.py
+inputModule3:
+  class: File
+  path: python/secondary-ccu002_01-hypertension---secondary.py
+inputModule4:
+  class: File
+  path: python/essential-ccu002_01-hypertension---secondary.py
+inputModule5:
+  class: File
+  path: python/ccu002_01-hypertension-stage---secondary.py
+inputModule6:
+  class: File
+  path: python/ccu002_01-hypertension-kidney---secondary.py
+inputModule7:
+  class: File
+  path: python/ccu002_01-hypertension---secondary.py
+inputModule8:
+  class: File
+  path: python/antihypertensive-ccu002_01-hypertension---secondary.py
+inputModule9:
+  class: File
+  path: python/ccu002_01-hypertension-benign---secondary.py
+inputModule10:
+  class: File
+  path: python/renovascular-ccu002_01-hypertension---secondary.py
+inputModule11:
+  class: File
+  path: python/ccu002_01-hypertension-malignant---secondary.py
+inputModule12:
+  class: File
+  path: python/ccu002_01-hypertension-refused---secondary.py
+inputModule13:
+  class: File
+  path: python/ccu002_01-hypertension-endocrine---secondary.py
+inputModule14:
+  class: File
+  path: python/contraceptive-ccu002_01-hypertension---secondary.py
+inputModule15:
+  class: File
+  path: python/diastolic-ccu002_01-hypertension---secondary.py
+inputModule16:
+  class: File
+  path: python/systolic-ccu002_01-hypertension---secondary.py
+inputModule17:
+  class: File
+  path: python/ccu002_01-hypertension-tolerated---secondary.py
+inputModule18:
+  class: File
+  path: python/ccu002_01-hypertension-therapy---secondary.py
+inputModule19:
+  class: File
+  path: python/ccu002_01-hypertension-3125mg---secondary.py
+inputModule20:
+  class: File
+  path: python/ccu002_01-hypertension-tildiem---secondary.py
+inputModule21:
+  class: File
+  path: python/ccu002_01-hypertension-fosinopril---secondary.py
+inputModule22:
+  class: File
+  path: python/ccu002_01-hypertension-lisopress---secondary.py
+inputModule23:
+  class: File
+  path: python/ccu002_01-hypertension-375mg---secondary.py
+inputModule24:
+  class: File
+  path: python/ccu002_01-hypertension-nicardipine---secondary.py
+inputModule25:
+  class: File
+  path: python/ccu002_01-hypertension-cozaarcomp---secondary.py
+inputModule26:
+  class: File
+  path: python/ccu002_01-hypertension-doxazosin---secondary.py
+inputModule27:
+  class: File
+  path: python/ccu002_01-hypertension-verapamil---secondary.py
+inputModule28:
+  class: File
+  path: python/ccu002_01-hypertension-eprosartan---secondary.py
+inputModule29:
+  class: File
+  path: python/ccu002_01-hypertension-125ml---secondary.py
+inputModule30:
+  class: File
+  path: python/ccu002_01-hypertension-320mg---secondary.py
+inputModule31:
+  class: File
+  path: python/ccu002_01-hypertension-teveten---secondary.py
+inputModule32:
+  class: File
+  path: python/ccu002_01-hypertension-slozem---secondary.py
+inputModule33:
+  class: File
+  path: python/ccu002_01-hypertension-nifedipine---secondary.py
+inputModule34:
+  class: File
+  path: python/ccu002_01-hypertension-tablet---secondary.py
+inputModule35:
+  class: File
+  path: python/ccu002_01-hypertension-zemret---secondary.py
+inputModule36:
+  class: File
+  path: python/ccu002_01-hypertension-metoprolol---secondary.py
+inputModule37:
+  class: File
+  path: python/ccu002_01-hypertension-lopresor---secondary.py
+inputModule38:
+  class: File
+  path: python/ccu002_01-hypertension-chlorothiazide---secondary.py
+inputModule39:
+  class: File
+  path: python/ccu002_01-hypertension-cardene---secondary.py
+inputModule40:
+  class: File
+  path: python/ccu002_01-hypertension-400mg---secondary.py
+inputModule41:
+  class: File
+  path: python/ccu002_01-hypertension-veratil---secondary.py
+inputModule42:
+  class: File
+  path: python/ccu002_01-hypertension-betacardone---secondary.py
+inputModule43:
+  class: File
+  path: python/ccu002_01-hypertension-sacubitril---secondary.py
+inputModule44:
+  class: File
+  path: python/ccu002_01-hypertension-adalat---secondary.py
+inputModule45:
+  class: File
+  path: python/ccu002_01-hypertension-dilzem---secondary.py
+inputModule46:
+  class: File
+  path: python/ccu002_01-hypertension-300microgram---secondary.py
+inputModule47:
+  class: File
+  path: python/ccu002_01-hypertension-hytrin---secondary.py
+inputModule48:
+  class: File
+  path: python/ccu002_01-hypertension-trandate---secondary.py
+inputModule49:
+  class: File
+  path: python/ccu002_01-hypertension-telmisartan---secondary.py
+inputModule50:
+  class: File
+  path: python/ccu002_01-hypertension-150mg---secondary.py
+inputModule51:
+  class: File
+  path: python/ccu002_01-hypertension-500mg---secondary.py
+inputModule52:
+  class: File
+  path: python/ccu002_01-hypertension-103mg---secondary.py
+inputModule53:
+  class: File
+  path: python/ccu002_01-hypertension-deliv---secondary.py
+inputModule54:
+  class: File
+  path: python/ccu002_01-hypertension-timolol---secondary.py
+inputModule55:
+  class: File
+  path: python/ccu002_01-hypertension-cardura---secondary.py
+inputModule56:
+  class: File
+  path: python/sectral-ccu002_01-hypertension---secondary.py
+inputModule57:
+  class: File
+  path: python/ccu002_01-hypertension-adipine---secondary.py
+inputModule58:
+  class: File
+  path: python/ccu002_01-hypertension-erbumine---secondary.py
+inputModule59:
+  class: File
+  path: python/ccu002_01-hypertension-candesartan---secondary.py
+inputModule60:
+  class: File
+  path: python/ccu002_01-hypertension-exforge---secondary.py
+inputModule61:
+  class: File
+  path: python/ccu002_01-hypertension-adanif---secondary.py
+inputModule62:
+  class: File
+  path: python/ccu002_01-hypertension-bicarzem---secondary.py
+inputModule63:
+  class: File
+  path: python/lisoretic-ccu002_01-hypertension---secondary.py
+inputModule64:
+  class: File
+  path: python/ccu002_01-hypertension-lisinopril---secondary.py
+inputModule65:
+  class: File
+  path: python/ccu002_01-hypertension-nifedipress---secondary.py
+inputModule66:
+  class: File
+  path: python/ccu002_01-hypertension-eplerenone---secondary.py
+inputModule67:
+  class: File
+  path: python/ccu002_01-hypertension-rasilez---secondary.py
+inputModule68:
+  class: File
+  path: python/ccu002_01-hypertension-zemtard---secondary.py
+inputModule69:
+  class: File
+  path: python/ccu002_01-hypertension-240mg---secondary.py
+inputModule70:
+  class: File
+  path: python/ccu002_01-hypertension-plendil---secondary.py
+inputModule71:
+  class: File
+  path: python/ccu002_01-hypertension-codiovan---secondary.py
+inputModule72:
+  class: File
+  path: python/ccu002_01-hypertension-parmid---secondary.py
+inputModule73:
+  class: File
+  path: python/ccu002_01-hypertension-riociguat---secondary.py
+inputModule74:
+  class: File
+  path: python/ccu002_01-hypertension-quinapril---secondary.py
+inputModule75:
+  class: File
+  path: python/ccu002_01-hypertension-100mg---secondary.py
+inputModule76:
+  class: File
+  path: python/ccu002_01-hypertension-adizemxl---secondary.py
+inputModule77:
+  class: File
+  path: python/ccu002_01-hypertension-terazosin---secondary.py
+inputModule78:
+  class: File
+  path: python/ccu002_01-hypertension-cardilate---secondary.py
+inputModule79:
+  class: File
+  path: python/ccu002_01-hypertension-400microgram---secondary.py
+inputModule80:
+  class: File
+  path: python/ccu002_01-hypertension-360mg---secondary.py
+inputModule81:
+  class: File
+  path: python/ccu002_01-hypertension-imidapril---secondary.py
+inputModule82:
+  class: File
+  path: python/alkapamid-ccu002_01-hypertension---secondary.py
+inputModule83:
+  class: File
+  path: python/ccu002_01-hypertension-coracten---secondary.py
+inputModule84:
+  class: File
+  path: python/ccu002_01-hypertension-ifirmasta---secondary.py
+inputModule85:
+  class: File
+  path: python/ccu002_01-hypertension-coversyl---secondary.py
+inputModule86:
+  class: File
+  path: python/ccu002_01-hypertension-zanidip---secondary.py
+inputModule87:
+  class: File
+  path: python/ccu002_01-hypertension-labetalol---secondary.py
+inputModule88:
+  class: File
+  path: python/ccu002_01-hypertension-capsule---secondary.py
+inputModule89:
+  class: File
+  path: python/ccu002_01-hypertension-ramipril---secondary.py
+inputModule90:
+  class: File
+  path: python/ccu002_01-hypertension-diltiazem---secondary.py
+inputModule91:
+  class: File
+  path: python/ccu002_01-hypertension-trandolapril---secondary.py
+inputModule92:
+  class: File
+  path: python/ccu002_01-hypertension-160mg---secondary.py
+inputModule93:
+  class: File
+  path: python/ccu002_01-hypertension-verapress---secondary.py
+inputModule94:
+  class: File
+  path: python/ccu002_01-hypertension-tanatril---secondary.py
+inputModule95:
+  class: File
+  path: python/ccu002_01-hypertension-300mg---secondary.py
+inputModule96:
+  class: File
+  path: python/ccu002_01-hypertension-folpik---secondary.py
+inputModule97:
+  class: File
+  path: python/ccu002_01-hypertension-securon---secondary.py
+inputModule98:
+  class: File
+  path: python/ccu002_01-hypertension-noyada---secondary.py
+inputModule99:
+  class: File
+  path: python/ccu002_01-hypertension-catapre---secondary.py
+inputModule100:
+  class: File
+  path: python/ccu002_01-hypertension-triapin---secondary.py
+inputModule101:
+  class: File
+  path: python/ccu002_01-hypertension-univer---secondary.py
+inputModule102:
+  class: File
+  path: python/ccu002_01-hypertension-celectol---secondary.py
+inputModule103:
+  class: File
+  path: python/ccu002_01-hypertension-istin---secondary.py
+inputModule104:
+  class: File
+  path: python/ccu002_01-hypertension-valni---secondary.py
+inputModule105:
+  class: File
+  path: python/ccu002_01-hypertension-adizemsr---secondary.py
+inputModule106:
+  class: File
+  path: python/ccu002_01-hypertension-hydralazine---secondary.py
+inputModule107:
+  class: File
+  path: python/ccu002_01-hypertension-tritace---secondary.py
+inputModule108:
+  class: File
+  path: python/ccu002_01-hypertension-titration---secondary.py
+inputModule109:
+  class: File
+  path: python/ccu002_01-hypertension-viazem---secondary.py
+inputModule110:
+  class: File
+  path: python/ccu002_01-hypertension-bisoprolol---secondary.py
+inputModule111:
+  class: File
+  path: python/ccu002_01-hypertension-olmesartan---secondary.py
+inputModule112:
+  class: File
+  path: python/ccu002_01-hypertension-celiprolol---secondary.py
+inputModule113:
+  class: File
+  path: python/ccu002_01-hypertension-carace---secondary.py
+inputModule114:
+  class: File
+  path: python/ccu002_01-hypertension-innovace---secondary.py
+inputModule115:
+  class: File
+  path: python/ccu002_01-hypertension-minoxidil---secondary.py
+inputModule116:
+  class: File
+  path: python/ccu002_01-hypertension-inspra---secondary.py
+inputModule117:
+  class: File
+  path: python/ccu002_01-hypertension-tenormin---secondary.py
+inputModule118:
+  class: File
+  path: python/ccu002_01-hypertension-olmetec---secondary.py
+inputModule119:
+  class: File
+  path: python/ccu002_01-hypertension-amlostin---secondary.py
+inputModule120:
+  class: File
+  path: python/ccu002_01-hypertension-edarbi---secondary.py
+inputModule121:
+  class: File
+  path: python/ccu002_01-hypertension-angitil---secondary.py
+inputModule122:
+  class: File
+  path: python/ccu002_01-hypertension-capoten---secondary.py
+inputModule123:
+  class: File
+  path: python/ccu002_01-hypertension-volibri---secondary.py
+inputModule124:
+  class: File
+  path: python/ccu002_01-hypertension-aliskiren---secondary.py
+inputModule125:
+  class: File
+  path: python/ccu002_01-hypertension-tensipine---secondary.py
+inputModule126:
+  class: File
+  path: python/ccu002_01-hypertension-nifopress---secondary.py
+inputModule127:
+  class: File
+  path: python/ccu002_01-hypertension-betaloc---secondary.py
+inputModule128:
+  class: File
+  path: python/ccu002_01-hypertension-felotens---secondary.py
+inputModule129:
+  class: File
+  path: python/ccu002_01-hypertension-accupro---secondary.py
+inputModule130:
+  class: File
+  path: python/ccu002_01-hypertension-loniten---secondary.py
+inputModule131:
+  class: File
+  path: python/ccu002_01-hypertension-sotacor---secondary.py
+inputModule132:
+  class: File
+  path: python/ccu002_01-hypertension-kenzem---secondary.py
+inputModule133:
+  class: File
+  path: python/ccu002_01-hypertension-aldomet---secondary.py
+inputModule134:
+  class: File
+  path: python/ccu002_01-hypertension-doxadura---secondary.py
+inputModule135:
+  class: File
+  path: python/ccu002_01-hypertension-hypovase---secondary.py
+inputModule136:
+  class: File
+  path: python/ccu002_01-hypertension-natrilix---secondary.py
+inputModule137:
+  class: File
+  path: python/ccu002_01-hypertension-acebutolol---secondary.py
+inputModule138:
+  class: File
+  path: python/ccu002_01-hypertension-vascalpha---secondary.py
+inputModule139:
+  class: File
+  path: python/ccu002_01-hypertension-600mg---secondary.py
+inputModule140:
+  class: File
+  path: python/ccu002_01-hypertension-tolura---secondary.py
+inputModule141:
+  class: File
+  path: python/ccu002_01-hypertension-625mg---secondary.py
+inputModule142:
+  class: File
+  path: python/ccu002_01-hypertension-180mg---secondary.py
+inputModule143:
+  class: File
+  path: python/ccu002_01-hypertension-irbesartan---secondary.py
+inputModule144:
+  class: File
+  path: python/ccu002_01-hypertension-tosilate---secondary.py
+inputModule145:
+  class: File
+  path: python/ccu002_01-hypertension-enalapril---secondary.py
+inputModule146:
+  class: File
+  path: python/ccu002_01-hypertension-cardicor---secondary.py
+inputModule147:
+  class: File
+  path: python/ccu002_01-hypertension-sotalol---secondary.py
+inputModule148:
+  class: File
+  path: python/ccu002_01-hypertension-oxprenolol---secondary.py
+inputModule149:
+  class: File
+  path: python/ccu002_01-hypertension-methyldopa---secondary.py
+inputModule150:
+  class: File
+  path: python/ccu002_01-hypertension-congescor---secondary.py
+inputModule151:
+  class: File
+  path: python/ccu002_01-hypertension-aprovel---secondary.py
+inputModule152:
+  class: File
+  path: python/ccu002_01-hypertension-cabren---secondary.py
+inputModule153:
+  class: File
+  path: python/ccu002_01-hypertension-lacidipine---secondary.py
+inputModule154:
+  class: File
+  path: python/ccu002_01-hypertension-motens---secondary.py
+inputModule155:
+  class: File
+  path: python/ccu002_01-hypertension-200microgram---secondary.py
+inputModule156:
+  class: File
+  path: python/ccu002_01-hypertension-vastarel---secondary.py
+inputModule157:
+  class: File
+  path: python/ccu002_01-hypertension-250mg---secondary.py
+inputModule158:
+  class: File
+  path: python/ccu002_01-hypertension-lercanidipine---secondary.py
+inputModule159:
+  class: File
+  path: python/ccu002_01-hypertension-felogen---secondary.py
+inputModule160:
+  class: File
+  path: python/ccu002_01-hypertension-calchan---secondary.py
+inputModule161:
+  class: File
+  path: python/ccu002_01-hypertension-atenolol---secondary.py
+inputModule162:
+  class: File
+  path: python/ccu002_01-hypertension-losartan---secondary.py
+inputModule163:
+  class: File
+  path: python/ccu002_01-hypertension-cozidocapt---secondary.py
+inputModule164:
+  class: File
+  path: python/ccu002_01-hypertension-trimetazidine---secondary.py
+inputModule165:
+  class: File
+  path: python/zestoretic-ccu002_01-hypertension---secondary.py
+inputModule166:
+  class: File
+  path: python/ccu002_01-hypertension-zaroxolyn---secondary.py
+inputModule167:
+  class: File
+  path: python/ccu002_01-hypertension-entresto---secondary.py
+inputModule168:
+  class: File
+  path: python/ccu002_01-hypertension-nidef---secondary.py
+inputModule169:
+  class: File
+  path: python/ccu002_01-hypertension-cotenidone---secondary.py
+inputModule170:
+  class: File
+  path: python/ccu002_01-hypertension-azilsartan---secondary.py
+inputModule171:
+  class: File
+  path: python/ccu002_01-hypertension-dilcardia---secondary.py
+inputModule172:
+  class: File
+  path: python/ccu002_01-hypertension-bosentan---secondary.py
+inputModule173:
+  class: File
+  path: python/ccu002_01-hypertension-sildenafil---secondary.py
+inputModule174:
+  class: File
+  path: python/ccu002_01-hypertension-spironolactone---secondary.py
+inputModule175:
+  class: File
+  path: python/ccu002_01-hypertension-amlodipine---secondary.py
+inputModule176:
+  class: File
+  path: python/ccu002_01-hypertension-nadolol---secondary.py
+inputModule177:
+  class: File
+  path: python/ccu002_01-hypertension-nebivolol---secondary.py
+inputModule178:
+  class: File
+  path: python/ccu002_01-hypertension-felodipine---secondary.py
+inputModule179:
+  class: File
+  path: python/ccu002_01-hypertension-indapamide---secondary.py
+inputModule180:
+  class: File
+  path: python/ccu002_01-hypertension-micardi---secondary.py
+inputModule181:
+  class: File
+  path: python/ccu002_01-hypertension-aldactone---secondary.py
+inputModule182:
+  class: File
+  path: python/ccu002_01-hypertension-neofel---secondary.py
+inputModule183:
+  class: File
+  path: python/ccu002_01-hypertension-neozipine---secondary.py
+inputModule184:
+  class: File
+  path: python/ccu002_01-hypertension-cardioplen---secondary.py
+inputModule185:
+  class: File
+  path: python/ccu002_01-hypertension-zestril---secondary.py
+inputModule186:
+  class: File
+  path: python/ccu002_01-hypertension-arginine---secondary.py
+inputModule187:
+  class: File
+  path: python/ccu002_01-hypertension-revatio---secondary.py
+inputModule188:
+  class: File
+  path: python/ccu002_01-hypertension-retard---secondary.py
+inputModule189:
+  class: File
+  path: python/ccu002_01-hypertension-ambrisentan---secondary.py
+inputModule190:
+  class: File
+  path: python/ccu002_01-hypertension-modifiedrelease---secondary.py
+inputModule191:
+  class: File
+  path: python/ccu002_01-hypertension-compl---secondary.py
+inputModule192:
+  class: File
+  path: python/ccu002_01-hypertension-context---secondary.py
+inputModule193:
+  class: File
+  path: python/ccu002_01-hypertension-reaction---secondary.py
+inputModule194:
+  class: File
+  path: python/ccu002_01-hypertension-review---secondary.py
+inputModule195:
+  class: File
+  path: python/ccu002_01-hypertension-childbth---secondary.py
+inputModule196:
+  class: File
+  path: python/ccu002_01-hypertension-control---secondary.py
+inputModule197:
+  class: File
+  path: python/ccu002_01-hypertension-resolved---secondary.py
+inputModule198:
+  class: File
+  path: python/adverse-ccu002_01-hypertension---secondary.py
+inputModule199:
+  class: File
+  path: python/hypertension---secondary.py
+inputModule200:
+  class: File
+  path: python/ccu002_01-hypertension-treatment---secondary.py
+inputModule201:
+  class: File
+  path: python/obstetric-ccu002_01-hypertension---secondary.py
+inputModule202:
+  class: File
+  path: python/output-cases.py
